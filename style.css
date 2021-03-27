@@ -38,3 +38,20 @@
 .categoriese img{
     width: 100px;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#about{
+    height: 300px;
+}
+#about h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
